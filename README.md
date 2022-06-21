@@ -17,8 +17,8 @@
 <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vinay-sitaram-kanse-438664215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://codepen.io/VinayKanse" target="blank"><img src="https://img.shields.io/badge/Codepen-333?style=for-the-badge&logo=codepen&logoColor=white" alt="Vinay Kanse" /></a>
-
 <a href="https://www.hackerrank.com/vinay_kanase" target="blank"><img src="https://img.shields.io/badge/Hackerrank-39424E?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/vinaykanse" target="blank"><img src="https://img.shields.io/badge/codechef-703C1D?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </p>
 
@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/node-233056?style=for-the-badge&logo=node.js&logoColor=green">
  <img src="https://img.shields.io/badge/Figma-563D7C?style=for-the-badge&logo=figma&logoColor=white">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
